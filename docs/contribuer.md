@@ -9,10 +9,10 @@ Pour se faire, il vous faudra:
 * Un clavier
 
 
-Une fois votre clavier branché, votre compte GitHub crée et que votre compréhension du Markdown est suffisante, vous pouvez commencer à proposer des changement sur le Wiki.
+Une fois votre clavier branché, votre compte GitHub créé et que votre compréhension du Markdown est suffisante, vous pouvez commencer à proposer des changements sur le Wiki.
 
 !!! danger "Avertissement"
-    Quelque chose qui leurs dit de pas proposer des changement de merde ou de faire chier en faisant des pr inutile
+    Nous vous prions de faire des propositions qui soient réfléchies et utiles, le wiki est collaboratif, à condition que ses collaborateurs restent sérieux et corrects. Toute proposition engage la personne qui l'écrit, il est donc judicieux de ne pas en faire inutilement. (Un truc ainsi?)
 
 ## Créer un fork du projet
 Pour proposer des changements, vous devez au préalable créer un fork du projet, rien de bien compliqué.
@@ -26,17 +26,17 @@ Pour proposer des changements, vous devez au préalable créer un fork du projet
 
 ## Proposer un changement
 
-Il vous suffit de cliquer sur le petit icon :material-pencil:, se qui vous redirigera vers une page ou vous pourez effectuer vos changement.
+Il vous suffit de cliquer sur le petit icon :material-pencil:, ce qui vous redirigera vers une page ou vous pourrez effectuer vos changements.
 
-Une fois vos changement fait, descendez en bas de la page et remplissez les champs demandé.
+Une fois vos changements faits, descendez en bas de la page et remplissez les champs demandés.
 
-1. Dans le 1er champs, indiquez le fichier que vous modifiez, exemple: `Update index.md`
-2. Dans le deuxième champs, expliquez les changements que vous avez éffectué.
+1. Dans le 1er champ, indiquez le fichier que vous modifiez, exemple: `Update index.md`
+2. Dans le deuxième champ, expliquez les changements que vous avez éffectués.
 3. Appuyez sur le bouton `Propose changes`
 
 Sur la page qui s'affiche:
 
-1. Cliquez sur le boutton `Create pull request`
+1. Cliquez sur le bouton `Create pull request`
 2. Cliquez une nouvelle fois sur le boutton `Create pull request`
 3. Attendez qu'une personne en charge du Wiki accepte vos changements.
 
